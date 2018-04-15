@@ -2,4 +2,4 @@
 添加一行1
 再加一行2
 创建了一个远程库
-create a new branch is quick
+create a new branch is quick & simple
